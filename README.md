@@ -59,7 +59,7 @@ It is designed with clean architecture, environment-based configuration, proper 
 4. Create a `.env` file in the project root (optional, default port is 8000):
 
     ```
-    PORT=8000
+    PORT=8080
     ```
 
 ---
