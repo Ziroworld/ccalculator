@@ -39,8 +39,8 @@ It is designed with clean architecture, environment-based configuration, proper 
 1. Clone the repository:
 
     ```powershell
-    
-    cd fastapi-calculator
+    clone this https://github.com/Ziroworld/ccalculator.git
+    cd ccalculator
     ```
 
 2. Create and activate a virtual environment:
